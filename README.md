@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/campoyerick/Bancodedados-Aula/blob/main/python_logo.png?raw=true"></img>
+  <img src="https://github.com/campoyerick/Bancodedados-Aula/blob/main/python.jpg?raw=true"></img>
     <b>Desenvolva habilidades avançadas em manipulação de dados com Python.</b>
 </p>
 
